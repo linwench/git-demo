@@ -9,3 +9,4 @@ hello linl! hello git!
 hello linl! hello git! master test
 hello linl! hello git! hot-fix test
 hello linwench
+hello lins  by new
